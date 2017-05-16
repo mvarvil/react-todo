@@ -1,1 +1,6 @@
 node_modules/
+debug.log
+package.json.bak
+package.json.lterm
+package.json~
+temp.txt
